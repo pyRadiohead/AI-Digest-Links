@@ -1,1 +1,5 @@
-
+https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/
+https://arxiv.org/abs/2605.01555
+https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
+https://www.anthropic.com/research/automated-alignment-researchers
+https://arxiv.org/abs/2605.02958
