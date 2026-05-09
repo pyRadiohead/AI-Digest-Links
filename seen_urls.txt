@@ -12,3 +12,8 @@ https://arxiv.org/abs/2605.02881
 https://arxiv.org/abs/2504.19874
 https://alignment.anthropic.com/2026/automated-w2s-researcher/
 https://arxiv.org/abs/2509.22195
+https://arxiv.org/abs/2605.06068
+https://arxiv.org/abs/2605.06161
+https://arxiv.org/abs/2605.03927
+https://arxiv.org/abs/2605.02404
+https://arxiv.org/abs/2605.05226
